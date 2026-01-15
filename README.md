@@ -17,4 +17,4 @@ User portfolio:
 These are fun to look through as they give a good idea of what a person has been focusing on, their path & trajectory, how often they work, etc. Great for stalking too! That aside, it's basically a resume.
 
 Markdown:
-What I'm using to write this file right now! It's popular for writing 
+What I'm using to write this file right now! It's popular for writing files viewed by many people, easy to use and generally is very good for posting information. Obsidian uses Markdown as well. 
